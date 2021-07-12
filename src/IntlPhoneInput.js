@@ -165,7 +165,6 @@ export default class IntlPhoneInput extends React.Component {
 renderAction=()=>{
   const renderAction=this.props.renderAction;
   if(renderAction) {
-    console.log("action",renderAction);
     if(typeof renderAction!=="function") throw ("The renderAction is not a function. Please set a renderAction function on there");
     else return this.props.renderAction();
   }
