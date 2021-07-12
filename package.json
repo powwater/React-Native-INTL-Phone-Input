@@ -1,38 +1,14 @@
 {
-  "_from": "react-native-intl-phone-input@^1.2.12",
-  "_id": "react-native-intl-phone-input@1.2.12",
-  "_inBundle": false,
-  "_integrity": "sha512-+IZRv7TqbG2iCmcyDZsD/AW3rn3T2czp3r3IIFF7qcsPxEezBo88iTJmtouWpcEVIGNEZBmrOeb97HYQEB7Dkw==",
-  "_location": "/react-native-intl-phone-input",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "react-native-intl-phone-input@^1.2.12",
-    "name": "react-native-intl-phone-input",
-    "escapedName": "react-native-intl-phone-input",
-    "rawSpec": "^1.2.12",
-    "saveSpec": null,
-    "fetchSpec": "^1.2.12"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-native-intl-phone-input/-/react-native-intl-phone-input-1.2.12.tgz",
-  "_shasum": "78a921724ce61784ecba5add33e2f5c8109378d1",
-  "_spec": "react-native-intl-phone-input@^1.2.12",
-  "_where": "/Users/rostyslavbroslavskyi/Documents/projects/cloudbreak",
   "author": {
     "name": "Muhammed ALMAZ"
   },
   "bugs": {
-    "url": "https://github.com/MuhammedAlmaz/React-Native-INTL-Phone-Input/issues"
+    "url": "https://github.com/powwater/React-Native-INTL-Phone-Input/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
   "description": "It is an international phone component.",
-  "homepage": "https://github.com/Roka20012/React-Native-INTL-Phone-Input#readme",
+  "homepage": "https://github.com/powwater/React-Native-INTL-Phone-Input#readme",
   "keywords": [
     "react-native",
     "react-component",
@@ -52,17 +28,17 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-intl-phone-input",
+  "name": "pow-react-native-intl-phone-input",
   "peerDependencies": {
     "react-native": ">= 0.25"
   },
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Roka20012/React-Native-INTL-Phone-Input.git"
+    "url": "git+https://github.com/powwater/React-Native-INTL-Phone-Input.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.2.12"
+  "version": "1.2.27"
 }
