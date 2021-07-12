@@ -136,6 +136,8 @@ export default class IntlPhoneInput extends React.Component {
           <FlatList
             style={{ flex: 1 }}
             data={this.state.countryData}
+            keyboardDismissMode='none'
+            keyboardShouldPersistTaps={true}
             keyExtractor={(item, index) => index.toString()}
             renderItem={
           ({ item }) => (
